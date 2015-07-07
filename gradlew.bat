@@ -1,4 +1,4 @@
-@if "%DEBUG%" == "" @echo off
+Messing with an existing repo file@if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows
